@@ -1,0 +1,2 @@
+## Abilities
+Elf – Strong – Nature magic starts at 75 and learns it 25% faster. Can understand all animals and starts with a familiar  – Weak – fire magic does 50% more damage to them and learns fire magic 50% slower. +

@@ -1,0 +1,3 @@
+(Tibetan Mastiff) Inu – Strong – Has 50 sight, 100 hearing and 150 smell. Strength starts at 50 and increases 75% faster. Can smell blood.  – Weak – Learns dark 100% slower and is weak to it by 20%. Learns all other magics 10% slower. Weak to charm by 10% (trusts others too easily). 
+
+Tibetan Mastiff Inu – Has dog ears, built larger than normal, is more fluffy than normal and has a short but fluffy tail (colour of fur is any dog/human hair colour).

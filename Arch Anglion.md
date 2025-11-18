@@ -1,0 +1,11 @@
+## Abilities
+- Has Wings
+- Combined total of 500 [[Dark Magic]] and [[Light Magic]] and Learns both 50% Faster
+  - Can form weapons out of both magics
+  - Can freely move points between [[Dark Magic]] and [[Light Magic]]
+  - Can [[Dark Magic#Movement (Shadowing)|Shadow]] and [[Light Magic#Movement|Teleport (Light)]] at start
+- Knows how to use all weapons in a basic way
+- Starts with 150 in [[Stats|Strength, Reflex, or Agility]].
+- Learns all other magics 100% slower
+- Is weak to [[Dark Magic]] or [[Light Magic]] based on current distribution (ex. 60% in Light, 40% in Dark means 40% Weak to Light and 60% Weak to Dark)
+- Unmodified [[Stats#Physcial Stats|Physical Stats]] start at 10 on start
