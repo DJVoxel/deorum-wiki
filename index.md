@@ -1,0 +1,5 @@
+[[Races]]
+[[Locations]]
+[[Stats]]
+[[Status]]
+[[Magic]]
