@@ -1,15 +1,15 @@
 .bg-background {
-  background: #efece3
+  background: #efece3 !important
 }
 
 body {
-  color: #8fabd4
+  color: #8fabd4 !important
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #4a70a9
+  color: #4a70a9 !important
 }
 
 title {
-  color: #000000
+  color: #000000 !important
 }
