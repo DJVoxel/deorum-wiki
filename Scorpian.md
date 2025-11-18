@@ -1,0 +1,4 @@
+## Appearance
+Scorpian – has the lower body of a scorpion with six legs, a tail and stinger on the end. Has few scales located on ribs and neck (colour can be anything).
+## Abilities
+Scorpian – Strong – Has poison magic at 100 and is learnt 33% faster. Naturally has armour along their body with a stinger on the end which can slash and inject poison. Their armour also resists god arts, wind, water, fire, poison, electric, earth, dark, light, balance, nature, and charm magic by 75% – Weak – Ice magic does 150% more damage. Agility starts at 10 and is learnt 25% slower. Armour being broken leaves the exposed areas bleeding and takes 100% more damage if hit. + 
