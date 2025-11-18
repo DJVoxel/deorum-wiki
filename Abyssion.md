@@ -1,0 +1,7 @@
+- [[Abyss Magic]] starts at 100 and it learned 50% faster.
+- Charm starts at 50 and Possession starts at 25. Both are learned 20% faster
+- Can heal with [[Dark Magic|Dark]]
+- Agility starts at 30, Reflexes starts at 30, sight starts at 40, and Hearing starts at 60
+- Takes 150% more damage from [[Light Magic]]
+- Learns all [[Magic]] other than [[Abyss Magic]], [[Blood Magic]], [[Summoning]], [[Possession]], [[Charm]], [[Ghosting]], [[Dark Magic|Dark]], and [[Death Magic]] 100% slower
+- can only heal with [[Dark Magic|Dark]] and potions
