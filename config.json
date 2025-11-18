@@ -1,3 +1,4 @@
 {
-  "editLinkShow": true
+  "showSidebar": true,
+  "showEditLink": true
 }
