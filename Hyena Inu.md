@@ -1,0 +1,3 @@
+(Hyena) Inu – Strong – 50 blood magic and learns it 25% faster (has 50 hearing and 200 smell). Strength increases 25% faster. Can smell blood and can eat rotting/dead foods. – Weak – learns light 100% slower and is weak to it by 20%, easily raged (more volatile emotions)
+
+Hyena Inu – Has bigger dog ears, sharp teeth, black/brown spots on their fur and a short-medium tail (colour of fur is any hyena/human hair colour). 
