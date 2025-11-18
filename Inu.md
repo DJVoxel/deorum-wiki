@@ -1,0 +1,2 @@
+## Abilities
+Inu – Strong – 50 wind magic and learns it 25% faster (has 100 hearing and 100 smell). Strength increases 25% faster – Weak – learns dark 100% slower and is weak to it by 20%, easily charmed (trusts others too easily).
