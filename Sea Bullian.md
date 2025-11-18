@@ -1,0 +1,6 @@
+## Appearance
+Sea Bullian - Human like but has 2 great big horns on its head, can be curled. Have small fins and are chubbier & more buoyant than other Bullians.
+## Personality
+Sea Bullian are nonaggressive, and nonterritorial. They prefer to be vegetarians that spend most of their time feeding and resting. The remainder of their day is spent floating around, investigating objects on the seafloor, and socializing by interacting with other Sea Bullian.
+## Abilities
+(Sea) Bullian – Strong – When charging, agility is multiplied by 4, hitting does a lot of damage to their opponent and magic will affect them less while charging. Can charge on land or in water. Can swim very well and can breathe underwater. Has 25 agility, 50 strength and 100 water magic at birth. Learns strength 50% faster and water magic 25% faster. – weak – Missing their target and hitting something from the environment could knock them out. Takes 50% more damage from electricity magic but on land they take another 25% more electric damage and learn strength + water magic 25% slower.
