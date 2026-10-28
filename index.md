@@ -2,7 +2,7 @@
 title: Index
 ---
 
-[[Races]]
+[[Species]]
 [[Locations]]
 [[Stats]]
 [[Status]]
