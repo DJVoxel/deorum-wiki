@@ -84,7 +84,7 @@
 - [[Vapor]]
 - [[Vixero]]
 - [[Vocaloid]]
-- [[Void Magic]]
+- [[Void]]
 - [[Vulca]]
 - [[Wanderer]]
 - [[Witchans]]
