@@ -2,8 +2,9 @@
 title: Index
 ---
 
-[[Species]]
-[[Locations]]
-[[Stats]]
-[[Status]]
-[[Magic]]
+- [[Species]]
+- [[Locations]]
+- [[Stats]]
+- [[Status]]
+- [[Magic]]
+- [[Contributing]]
