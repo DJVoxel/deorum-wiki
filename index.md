@@ -7,4 +7,6 @@ title: Index
 - [[Stats]]
 - [[Status]]
 - [[Magic]]
+- [[Gods]]
+- [[Greater Spirits]]
 - [[Contributing]]
