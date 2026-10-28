@@ -35,6 +35,7 @@ Gods that began their lives as mortal beings.
 - [[The God of Etching]]
 - [[The God of Legal Justice]]
 - [[The God of Moral Justice]]
+- [[The Grand Dragon]]
 - [[The Skyward Linguistics Goddess]
 - [[The Sublunary Linguistics Goddess]]
 - [[The Substratum Linguistics God]]
