@@ -13,7 +13,7 @@ Basic Magic is usually not available birth but has no prerequisites
 - [[Light Magic]]
 ## Advanced Magic
 Advanced Magic has some sort of prerequisite to acquire, usually involving a high level in one or more Starter or Basic Magic
- [[Abyss Magic]]
+- [[Abyss Magic]]
 - [[Aether Magic]]
 - [[Amplification Magic]]
 - [[Aurora Magic]] - 500 Ice?
