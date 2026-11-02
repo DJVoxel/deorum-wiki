@@ -105,6 +105,7 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 - [[Tonittirue]]
 - [[Trenus]]
 - [[Tundrus]]
+- [[Ursa]]
 - [[Vamperian]]
 - [[Vapor]]
 - [[Vixero and Vexero]]
