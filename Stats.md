@@ -1,13 +1,18 @@
+Stats represent the growth of your character's body and can be increased with use without any particular formalized training. Each stat is represented with a single number.
 ## Physcial Stats
+Physical stats represent your character's physical fitness. Generally speaking, an average person from earth would have 10-15 in each physical stat and the pinnacle available to them is 20.
+### Bodily Stats
 - Strength
 - Agility
 - Reflexes
 - Dexterity
 - Flexibility
-#### Sensory Stats
+### Sensory Stats
 - Sight
 - Hearing
 - Smell
 - Pain Endurance
 ## Magical Stats
-[[Magic]]
+Magical Stats represent your character's ability to manipulate a given form of magic. Generally, in order to match the power of an amount of Strength, a magical stat needs to be 5 times as high. (i.e. 500 in a magical stat = ~100 Strength)
+
+ The nuances of magic are too complex and numerous to list here. See [[Magic]] for more information.

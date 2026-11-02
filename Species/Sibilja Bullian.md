@@ -21,5 +21,5 @@ Sibilja Bullian are a mystery. Some are bold, adventurous and temperamental, whi
 - Can learn [[God Arts]]
 - Learns all other [[Magic]] 10% faster
 - Immune to [[Status#Insanity|Insanity]]
-- 50% Weakness to [[Electric Magic]]
+- 50% Weakness to [[Electric]]
 - Learns all [[Stats#Physcial Stats|Physical Stats]] aside from Agility 25% slower

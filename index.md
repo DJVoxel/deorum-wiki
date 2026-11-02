@@ -7,8 +7,9 @@ Deorum is a long-running Spoken Game run in the Games Hub Discord Server. It is 
 
 - [[Species]]
 - [[Locations]]
-- [[Stats]]
 - [[Status]]
+  - [[Stats]]
+  - [[Skills]]
 - [[Magic]]
 - [[Gods]]
 - [[Greater Spirits]]
