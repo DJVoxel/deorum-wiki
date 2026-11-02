@@ -1,18 +1,19 @@
 ## Biology
-Succubus – has bat-like wings and has a pointed tail. Some have small white, light pink, black or yellow horns. Colour of the wings and tail can be purple, pink, red or black. Has higher sexual appeal (relevant for Charm magic). Relatively small / lightweight.
+Has a roughly humanoid body with bat-like wings and a pointed tail. Some have small white, light pink, black or yellow horns. Colour of the wings and tail can be purple, pink, red or black. Has higher sexual appeal (relevant for Charm magic). Relatively small / lightweight.
 
-Succubus heat season lasts one week. Indicated by irises turning pink. Usually quite intense, making non-sexual activity during this period highly difficult (especially for younger succubi). Succubi will normally feed on a partner (or partners) for anywhere from a whole day to a week at a time; gender of partners is not usually a consideration. Non-succubi are generally more "filling" with some exceptions, such as if the succubi in question are in love or there are no other potential partners nearby (example: if two succubi are stranded in the middle of nowhere, they'll generally be able to satisfy each other's needs). As succubi grow older, they typically require fewer partners during this period, since they learn how to gain more "nutrition" from each partner.
+Succubus heat season lasts one week. Indicated by irises turning pink. Usually quite intense, making non-sexual activity during this period highly difficult (especially for younger succubi). Succubi will normally feed on a partner (or partners) for anywhere from a whole day to a week at a time; gender of partners is not usually a consideration. Non-succubi are generally more "filling" with some exceptions, such as if the succubi in question are in love or there are no other potential partners nearby (example: if two succubi are stranded in the middle of nowhere, they'll generally be able to satisfy each other's needs). As succubi grow older, they typically require fewer partners during this period, since they learn how to gain more "nutrition" from each partner. Older succubi also have more self-control during this time, which can translate to greater stat gains.
 
 Their wings are very sensitive to pain: one strong hit may cause a succubus to faint. The tip of their tail is also highly sensitive, considered a "pleasure point"; if rubbed in combat, intense pleasure could make it hard for the succubus to fight back.
 
 Succubus parts can be used for alchemy in charm potions or potions that alter one's emotions.
 
-"Succubus" is used both to refer to the species as a whole or to a specific female succubus. A male succubus is called an "incubus", and "concubus" is used in all other cases.
+"Succubus" is used both to refer to the species as a whole or to a specific female succubus. A male succubus is called an "incubus", and "concubus" is used in most or all other cases.
 
 ## Abilities
-- Can fly using its wings.
+- Can fly using its wings. Flaps its wings relatively often compared to other flying species.
 - Starts with Charm at 50 and learns it 100% faster.
-- Dagger skills start at level 5. Whip skills start at level 10 & are learned 50% faster.
+- Dagger skills start at level 5.
+- Whip skills start at level 10 and are learned 50% faster.
 - Strength starts at 10 (lower than average).
 - Nature magic is learnt 50% slower.
 - Needs sexual energy to live.
