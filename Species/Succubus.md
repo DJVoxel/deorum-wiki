@@ -10,7 +10,13 @@ Succubus parts can be used for alchemy in charm potions or potions that alter on
 "Succubus" is used both to refer to the species as a whole or to a specific female succubus. A male succubus is called an "incubus", and "concubus" is used in all other cases.
 
 ## Abilities
-Succubus – Strong – Can fly. Starts with Charm at 50 and learns it 100% faster, dagger skills start at level 5, whip skills start at level 10 & are learned 50% faster. Has wings and can fly – Weak – Strength starts at 10. Nature magic is learnt 50% slower. Needs sexual energy to live.* 
+- Can fly using its wings.
+- Starts with Charm at 50 and learns it 100% faster.
+- Dagger skills start at level 5. Whip skills start at level 10 & are learned 50% faster.
+- Strength starts at 10 (lower than average).
+- Nature magic is learnt 50% slower.
+- Needs sexual energy to live.
+
 Hidden stat: Increases power of Charm with level of exposure (due to attractiveness)
 
 Rare Extra: Selfless Succubus - Does not need sexual energy to live, but learns Charm only 50% faster.
