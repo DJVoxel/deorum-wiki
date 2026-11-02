@@ -1,3 +1,5 @@
+Deorum is host to an expansive quantity of humanoid species that each have their own benefits and downsides. While the original goal was 100 different species, the cureent count far surpasses that number.
+
 - [[Abyssion]]
 - [[Anglion]]
   - [[Arch Anglion]]
