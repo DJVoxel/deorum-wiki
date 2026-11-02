@@ -84,6 +84,7 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 - [[Tundrus]]
 - [[Vamperian]]
 - [[Vapor]]
+- [[Vertian]]
 - [[Vixero]]
 - [[Vocaloid]]
 - [[Void]]
