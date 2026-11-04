@@ -69,7 +69,6 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 - [[Mezcubus]]
 - [[Mist]]
 - [[Mokichi]]
-- [[Monoloid]]
 - [[Mosu]]
 - [[Neko]]
 - [[Nekros]]
@@ -112,7 +111,6 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 - [[Vamperian]]
 - [[Vapor]]
 - [[Vixero and Vexero]]
-- [[Vocaloid]]
 - [[Void]]
 - [[Vulca]]
 - [[Wanderer]]
@@ -131,5 +129,7 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 The Gods were not kind to these ones
 - [[Flectorian]]
 - [[Glutena]]
+- [[Monoloid]]
 - [[Rezra]]
 - [[Vertian]]
+- [[Vocaloid]]

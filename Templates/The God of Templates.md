@@ -1,5 +1,3 @@
-# The God of Templates
-
 ## Domains & Responsibilities
 
 ### Domains
