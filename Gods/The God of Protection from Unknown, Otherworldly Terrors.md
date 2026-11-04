@@ -1,5 +1,4 @@
-# The God of Templates
-
+![[wall_3.png]]
 ## Domains & Responsibilities
 
 ### Domains
