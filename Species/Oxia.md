@@ -1,5 +1,5 @@
 ## Abilities
-- [[Poison Magic|Poison]], [[Telekinesis Magic|Telekinesis]], [[Balance Magic|Balance]], and [[Water]] all start at 300, and are learned 30% faster.
+- [[Poison Magic|Poison]], [[Telekinesis|Telekinesis]], [[Balance Magic|Balance]], and [[Water]] all start at 300, and are learned 30% faster.
 - [[Stats|Agility]] starts at 75 and [[Stats|Reflexes]] starts at 50. Both are learned 50% faster
 - Razor-like blades on the sides of their legs that can retract
 - Has poisonous blood

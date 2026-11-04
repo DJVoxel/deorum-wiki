@@ -3,4 +3,7 @@
 ## Personality
 
 ## Abilities
+### Strengths
+
+### Weaknesses
 
