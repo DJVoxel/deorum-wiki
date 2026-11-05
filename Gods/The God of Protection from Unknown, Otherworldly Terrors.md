@@ -15,10 +15,11 @@ As the God of the Fourth Wall, he has set up various rules and filters for anyth
 
 ## Boons
 
-| Main | Near-Death | Other (Specify) |
-| :------: | :-----: | :------ |
-| Example | Example | (Wartime) Example |
-| Example | Example | (Full Devotion) Example |
+| Type | Benefit |
+| :------: | :----- |
+| Main | 25% resistance to mental effects |
+| Main | Insanity is resisted by 10% more each passing year (up to a max of 95%) - Reaching max and going over will bestow a new perk. |
+| Main | Your mind may force you to continue on when your body usually cannot. | 
 
 ## Worship
 
@@ -36,20 +37,20 @@ As the God of the Fourth Wall, he has set up various rules and filters for anyth
 
 #### Associates
 
-- **[[The God of Time]]** - Lorum Ipsum
-- **[[The Goddess of the Underworld]]** - Lorum Ipsum
+- **[[The God of Time]]** - The God of Time & The God of Protection from Unknown, Otherworldly Terrors are both original pantheon members with high responsibility duties. Not much is known about their thoughts on one other, however The God of Time has been noted as a potential candidate for who else could potentially do The God of Protection from Unknown, Otherworldly Terrors's duties.
+- **[[The Goddess of the Underworld]]** - The Goddess of the Underworld is also an original pantheon member with high responsibility duties, who could potentially survive should The God of Protection from Unknown, Otherworldly Terrors falter. They have said little about the other except for The God of Protection from Unknown, Otherworldly Terrors commenting that being owned by The Goddess of the Underworld is a worthy enough punishment to replace obliteration.
 
 #### Enemies
 
-- **[[Teehee]]** - Lorum Ipsum
+- **[[Teehee]]** - As an entity that exists both inside and outside the approved Deorum region of the multiverse with the ability to perform impossible universe hops, Teehee is a noted enemy of The God of Protection from Unknown, Otherworldly Terrors. 
 
 #### Family
-- **[[Guillotine]]** - Lorum Ipsum
-- **[[Veil Keeper]]** - Lorum Ipsum
-- **[[Finalizer the Godborn]]** - Lorum Ipsum
+- **[[Guillotine]]** - Guillotine is a progeny of The God of Protection from Unknown, Otherworldly Terrors without input from another source, assigning them divine purpose alongside their existence.
+- **[[Veil Keeper]]** - The most capable being of performing The God of Protection from Unknown, Otherworldly Terrors's duties other than himself and a family member of unknown relation to him.
+- **[[Finalizer the Godborn]]** - Finalizer is a progeny of The God of Protection from Unknown, Otherworldly Terrors. Their relationship is minimal, with Finalizer being programmed to respect him and he occasionally speaking to them with words of encouragement. 
 
 #### Notable Followers
-- **[[Yx the Elata]]** - Lorum Ipsum
+- **[[Yx the Elata]]** - Yx the Elata followed and continues to be bind to The God of Protection from Unknown, Otherworldly Terrors after a single brief interaction.
 
 ## Personality
 
