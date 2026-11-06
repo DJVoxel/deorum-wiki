@@ -12,10 +12,11 @@ The God of Templates has the responsibility to create templates, although notabl
 
 ## Boons
 
-| Main | Near-Death | Other (Specify) |
-| :------: | :-----: | :------ |
-| Example | Example | (Wartime) Example |
-| Example | Example | (Full Devotion) Example |
+| Type | Benefit |
+| :------: | :----- |
+| Main | Ex |
+| Near Death | Ex |
+| Wartime | Ex | 
 
 ## Worship
 
