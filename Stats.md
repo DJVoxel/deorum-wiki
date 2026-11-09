@@ -23,7 +23,8 @@ Magical Stats represent your ability to manipulate a given form of magic. Genera
  The types of magic are too complex and numerous to list here. See [[Magic]] for more information.
 ## [[Species]]-Exclusive Stats
 Some species have stats that are exclusive to them. These stats often augment or replace existing stats.
-| Stat | Species | Type | Function
+
+| Stat | Species | Type | Function |
 | ----- | ----- | ----- | ----- |
 | Grip Strength | [[Cita]] | Bodily Stat | Adds to Strength when gripping something |
 | Pain Ignorance | [[Teraz]] | Sensory Stat | Pain is not felt at all below a certain threshold? |
