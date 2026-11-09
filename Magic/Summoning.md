@@ -1,12 +1,12 @@
 # Summoning
-[[Summoning]] | [[Summoning Combat Guide]] |[[List of Summoning Species]]
+[[Summoning]] | [[Summoning Combat Guide]] | [[List of Summoning Species]]
 
 ***
 
 An Overworld container magic. Early (5-100) Summoning primarily enables the user to draw forth a humanoid skeleton that somewhat intelligently follows orders. At low levels (100+) more options open up, such as creating zombies which have much more physicality than a skeleton or a ghost which do far better with magic. Creation of non-humanoid intelligent summons opens up, being significantly cheaper and more specialized. Specialization is available from the beginning with some control over body shape. Summoning allows the creation of basic weapons and armour.
 
 ## Known Techniques
-*Describe common techniques here*
+
 ### Movement
 Summons follow orders from their summoner, and as such may be sent with specific instructions to complete tasks. This enables the Summoner to effectively be in more places at once. Summons may also simply carry their summoner.
 ### Buffs & Debuffs
