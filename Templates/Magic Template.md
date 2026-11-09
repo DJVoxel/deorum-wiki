@@ -1,5 +1,5 @@
 # Magic Name
-[[Magic Name]] [[Magic Combat Guide]] [[List of Magic Name Species]]
+[[Magic Name]] | [[Magic Combat Guide]] |[[List of Magic Name Species]]
 
 ***
 
