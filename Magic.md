@@ -17,7 +17,7 @@ Simple Magic must be learned from a book or teacher, but has no other pre-requis
 - [[Magic Essence]]
 - [[Telekinesis]]
 ## Advanced Magic
-Advanced Magic has some sort of prerequisite to acquire, usually involving a high level in one or more Starter or Basic Magic
+Advanced Magic has some sort of prerequisite to acquire, usually involving a high level in one or more other Magics
 - [[Abyss]]
 - [[Aether]]
 - [[Amplification]]
