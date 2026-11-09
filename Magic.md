@@ -13,6 +13,7 @@ Basic Magic is available from birth, but is not accessible until trained.
 - [[Charm]]
 - [[Light]]
 - [[Magic Essence]]
+- [[Telekinesis]]
 ## Advanced Magic
 Advanced Magic has some sort of prerequisite to acquire, usually involving a high level in one or more Starter or Basic Magic
 - [[Abyss]]
@@ -58,7 +59,6 @@ Advanced Magic has some sort of prerequisite to acquire, usually involving a hig
 - [[Steam]]
 - [[Summoning]]
 - [[Suppression]]
-- [[Telekinesis]]
 - [[Transmutation]]
 - [[Trap]]
 - [[Weather]]
