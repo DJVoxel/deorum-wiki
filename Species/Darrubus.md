@@ -21,9 +21,9 @@ Has no neck, knees or elbows. All areas "cut off" have blue flames emenating fro
 | [[Nature]] | 5 | - |
 | [[Earth]] | 5 | - |
 | [[Electric]] | 5 | - |
-| [[Charm]] | ==🟢5== | - |
-| [[Magic Essence]] | ==🟢5== | - |
-| [[Aether]] | ==🟢5== | - |
+| [[Charm]] | ==5== | - |
+| [[Magic Essence]] | ==5== | - |
+| [[Aether]] | ==5== | - |
 
 ## Abilities
 ### Strengths

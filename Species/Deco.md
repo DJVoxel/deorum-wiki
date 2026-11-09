@@ -15,9 +15,9 @@
 | Magical Stat | Value | Learn Rate |
 | ----- | ----- | ----- |
 | [[Ice]] | 5 | - |
-| [[Death]] | ==🟢2== | ==🟢+20%== |
-| [[Dark]] | ==🟢100== | ==🟢+20%== |
-| [[Ghosting]] | ==🟢50== | - |
+| [[Death]] | ==2== | ==+20%== |
+| [[Dark]] | ==100== | ==+20%== |
+| [[Ghosting]] | ==50== | - |
 
 ## Abilities
 ### Strengths
