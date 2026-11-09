@@ -1,5 +1,5 @@
 ## Starter Magic
-Starter Magic is available to most species from birth
+Starter Magic is available to most species from birth. Usually start at 5.
 - [[Earth]]
 - [[Electric]]
 - [[Fire]]
@@ -8,10 +8,12 @@ Starter Magic is available to most species from birth
 - [[Water]]
 - [[Wind]]
 ## Basic Magic
-Basic Magic is available from birth, but is not accessible until trained.
+Basic Magic can be self-taught with no pre-requisites. Once trained, starts at 5.
 - [[Dark]]
-- [[Charm]]
 - [[Light]]
+## Simple Magic
+Simple Magic must be learned from a book or teacher, but has no other pre-requisites. Once trained, starts at 0.
+- [[Charm]]
 - [[Magic Essence]]
 - [[Telekinesis]]
 ## Advanced Magic
