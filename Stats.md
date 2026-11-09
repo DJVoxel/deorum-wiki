@@ -1,6 +1,7 @@
 Stats represent the growth of your character's body and can be increased with use without any particular formalized training. Each stat is represented with a single number.
 ## Physcial Stats
-Physical stats represent your character's physical fitness. Generally speaking, an average person from earth would have 10-15 in each physical stat and the pinnacle available to them is 20.
+Physical stats represent your character's physical fitness. Generally speaking, a human from earth would usually have 10-15 in each physical stat and the pinnacle available to them is 20.
+All playable [[Species]] begin with 20 in each stat unless specified otherwise
 ### Bodily Stats
 - Strength
 - Agility
