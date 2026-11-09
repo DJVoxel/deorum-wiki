@@ -14,24 +14,18 @@
 
 | Magical Stat | Value | Learn Rate |
 | ----- | ----- | ----- |
-| [[Fire]] | 5 | - |
-| [[Water]] | 5 | - |
 | [[Ice]] | 5 | - |
-| [[Wind]] | 5 | - |
-| [[Nature]] | 5 | - |
-| [[Earth]] | 5 | - |
-| [[Electric]] | 5 | - |
-| [[Death]] | ==2== | ==+20%== |
-| [[Dark]] | ==100== | ==+20%== |
-
-## Starting [[Skills]]
-| Skill | Value | Learn Rate |
-| ----- | ----- | ----- |
+| [[Death]] | ==🟢2== | ==🟢+20%== |
+| [[Dark]] | ==🟢100== | ==🟢+20%== |
+| [[Ghosting]] | ==🟢50== | - |
 
 ## Abilities
 ### Strengths
 
 ### Weaknesses
+- Cannot learn [[Nature]], [[Light]], [[Electric]], [[Wind]], [[Water]], [[Earth]], or [[Fire]] magic
+- Takes 100% more damage from [[Light]] and [[Nature]]
+- Can only heal using [[Dark]] magic
 
 ## Rare Extras
 
