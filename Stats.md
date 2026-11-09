@@ -15,10 +15,10 @@ All playable [[Species]] begin with 20 in each physical stat unless specified ot
 - Sight
 - Hearing
 - Smell
-- Pain Endurance
 #### Hidden Bodily Stats
+- Pain Endurance
 - Pain Ignorance
-  - Cannot be trained
+  - Exclusive to certain [[Species]]
 ## Magical Stats
 Magical Stats represent your ability to manipulate a given form of magic. Generally, in order to match the power of an amount of Strength, a magical stat needs to be 5 times as high. (i.e. 500 in a magical stat = ~100 Strength). Unless specified otherwise, every playable [[Species]] starts with all [[Magic#Starter Magic]] at 5.
 
