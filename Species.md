@@ -91,7 +91,6 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 - [[Sairena]]
 - [[Scorpian]]
 - [[Shadez]]
-- [[Shardax]]
 - [[Slimian]]
 - [[Soraz]]
   - [[Harmonius Soraz]]
@@ -122,7 +121,6 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 - [[Zeno]]
 - [[Zonaloid]]
 - [[Zoneling]]
-- [[Zumi]]
 - [[Zythena]]
 
 ## Extinct Species
@@ -131,5 +129,7 @@ The Gods were not kind to these ones
 - [[Glutena]]
 - [[Monoloid]]
 - [[Rezra]]
+- [[Shardax]]
 - [[Vertian]]
 - [[Vocaloid]]
+- [[Zumi]]
