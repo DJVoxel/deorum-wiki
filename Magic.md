@@ -8,9 +8,11 @@ Starter Magic is available to most species from birth
 - [[Water]]
 - [[Wind]]
 ## Basic Magic
-Basic Magic is usually not available birth but has no prerequisites
+Basic Magic is available from birth, but is not accessible until trained.
 - [[Dark]]
+- [[Charm]]
 - [[Light]]
+- [[Magic Essence]]
 ## Advanced Magic
 Advanced Magic has some sort of prerequisite to acquire, usually involving a high level in one or more Starter or Basic Magic
 - [[Abyss]]
@@ -21,7 +23,6 @@ Advanced Magic has some sort of prerequisite to acquire, usually involving a hig
 - [[Blood]]
 - [[Bone]]
 - [[Charge]]
-- [[Charm]]
 - [[Conversion]]
 - [[Corruption]]
 - [[Crystal]] - Earth + Ice or super high Earth
@@ -39,7 +40,6 @@ Advanced Magic has some sort of prerequisite to acquire, usually involving a hig
 - [[Infection]]
 - [[Leech]]
 - [[Life]]
-- [[Magic Essence]]
 - [[Magma]]
 - [[Magnetism]]
 - [[Metal]] - Earth

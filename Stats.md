@@ -1,11 +1,14 @@
 Stats represent the growth of your character's body and can be increased with use without any particular formalized training. Each stat is represented with a single number.
+
+Some stats are Hidden because they start at 0 and will not appear on your character sheet until trained.
 ## Physcial Stats
 Physical stats represent your character's physical fitness. Generally speaking, a human from earth would usually have 10-15 in each physical stat and the pinnacle available to them is 20.
-All playable [[Species]] begin with 20 in each stat unless specified otherwise
+All playable [[Species]] begin with 20 in each physical stat unless specified otherwise
 ### Bodily Stats
 - Strength
 - Agility
 - Reflexes
+#### Hidden Bodily Stats
 - Dexterity
 - Flexibility
 ### Sensory Stats
@@ -13,7 +16,10 @@ All playable [[Species]] begin with 20 in each stat unless specified otherwise
 - Hearing
 - Smell
 - Pain Endurance
+#### Hidden Bodily Stats
+- Pain Ignorance
+  - Cannot be trained
 ## Magical Stats
-Magical Stats represent your character's ability to manipulate a given form of magic. Generally, in order to match the power of an amount of Strength, a magical stat needs to be 5 times as high. (i.e. 500 in a magical stat = ~100 Strength)
+Magical Stats represent your ability to manipulate a given form of magic. Generally, in order to match the power of an amount of Strength, a magical stat needs to be 5 times as high. (i.e. 500 in a magical stat = ~100 Strength). Unless specified otherwise, every playable [[Species]] starts with all [[Magic#Starter Magic]] at 5.
 
- The nuances of magic are too complex and numerous to list here. See [[Magic]] for more information.
+ The types of magic are too complex and numerous to list here. See [[Magic]] for more information.
