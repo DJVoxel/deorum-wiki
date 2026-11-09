@@ -26,3 +26,4 @@ Some species have stats that are exclusive to them. These stats often augment or
 | Stat | Species | Type | Function
 | ----- | ----- | ----- | ----- |
 | Grip Strength | [[Cita]] | Bodily Stat | Adds to Strength when gripping something |
+| Pain Ignorance | [[Teraz]] | Sensory Stat | Pain is not felt at all below a certain threshold? |
