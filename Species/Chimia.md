@@ -16,5 +16,5 @@
 ### Weaknesses
 - Has 5 [[Stats#Bodily Stats|Reflexes]] and 10 [[Stats#Bodily Stats|Strength]] at birth
 - Learns [[Stats#Bodily Stats|Reflexes]] 50% slower
-- Learns all non-[[Magic#Starter Magic|starter magics]] 75% slower (Excluding [[Magic/Transmutation| Transmutation (Magic)]] and [[Magic/Transmutation#Sub-Magics|it's sub-magics]])
+- Learns all non-[[Magic#Starter Magic|starter magics]] 75% slower (Excluding [[Magic/Transmutation| Transmutation (Magic)]] and [[Magic/Transmutation#Sub-Magics|its sub-magics]])
 - Learns all [[Skills]] other than [[Crafting]], [[Alchemy]] and [[Skills/Transmutation|Transmutation (Skill)]] 75% slower
