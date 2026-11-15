@@ -33,7 +33,6 @@ Deorum is host to an expansive quantity of humanoid species that each have their
   - [[Frost Elf]]
   - [[Dark Elf]]
   - [[Blood Elf]]
-- [[Fade]]
 - [[Fairy]]
 - [[Ferox]]
 - [[Flourean]]
@@ -125,6 +124,7 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 
 ## Extinct Species
 The Gods were not kind to these ones
+- [[Fade]]
 - [[Flectorian]]
 - [[Glutena]]
 - [[Monoloid]]

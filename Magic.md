@@ -19,13 +19,17 @@ Simple Magic must be learned from a book or teacher, but has no other pre-requis
 ## Advanced Magic
 Advanced Magic has some sort of prerequisite to acquire, usually involving a high level in one or more other Magics
 - [[Abyss]]
+- [[Adaptation]]
+- [[Adhesion]]
 - [[Aether]]
+- [[Alteration]]
 - [[Amplification]]
 - [[Aurora]] - 500 Ice?
 - [[Balance]] - 250 Light/Dark; Unknown amount of other opposing magics
 - [[Blood]]
 - [[Bone]]
 - [[Charge]]
+- [[Clay]]
 - [[Conversion]]
 - [[Corruption]]
 - [[Crystal]] - Earth + Ice or super high Earth
@@ -33,51 +37,81 @@ Advanced Magic has some sort of prerequisite to acquire, usually involving a hig
 - [[Death]] - 5000 Nature
 - [[Decay]]
 - [[Downpour]] - 500 Water?
+- [[Drain]]
+- [[Ecstasy]]
 - [[Emotion]]
+- [[Enthrall]]
 - [[Entropy]]
+- [[Fear]]
 - [[Flux]]
+- [[Frenzy]]
 - [[Ghosting]]
+- [[Harmony]]
 - [[Hex]]
 - [[Hypnosis]]
 - [[Illusion]]
 - [[Infection]]
+- [[Instinct]]
+- [[Joy]]
 - [[Leech]]
 - [[Life]]
+- [[Macrokinesis]]
 - [[Magma]]
 - [[Magnetism]]
+- [[Malignity]]
+- [[Mania]]
 - [[Metal]] - Earth
+- [[Microkinesis]]
 - [[Mirror]]
 - [[Mist]]
+- [[Mud]]
 - [[Mutation]]
 - [[Nebula]] 500 Fire or 5 Hellfire
 - [[Plasma]]
 - [[Poison]]
 - [[Polymorph]]
 - [[Possession]]
+- [[Pressure]]
+- [[Radiance]]
+- [[Rage]]
+- [[Sand]]
+- [[Serenity]]
 - [[Smoke]]
 - [[Sound]]
 - [[Spiriting]]
+- [[Spite]]
+- [[Stasis]]
 - [[Static]]
 - [[Steam]]
+- [[Stocisim]]
+- [[Stone]]
+- [[Subatomic]]
 - [[Summoning]]
 - [[Suppression]]
+- [[Telekinesis]]
+- [[Tranquility]]
 - [[Transmutation]]
 - [[Trap]]
+- [[Turbulence]]
+- [[Twist]] - Gravity Sub
+- [[Vortex]]
 - [[Weather]]
 - [[Web]]
 - [[Withdraw]]
 - [[Wither]]
 ## Bestowed Magic
 This category of magic usually has to be granted to you by a higher power
-- Demonic Modifier - Hell
+- Hell Dimension
   - Hellfire
 - [[God Arts]]
 - [[Gravity]]
 - [[Harmony]] - Magic Cores
-- Holy Modifier - Heaven
+- Heaver Dimension
+  - Divine Flame
 - [[Merchuka]] - From [[Azuma]]/[[Midi]]
 - [[Time]]
 - [[Magic/Void|Void]]
+- [[Xadie]]
 ## Universal Techniques
 These techniques are available to (almost) every type of magic, but manifest different depending on the type of magic.
 - Weapon Enhancement

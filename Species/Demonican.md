@@ -14,12 +14,12 @@
 
 | Magical Stat | Value | Learn Rate |
 | ----- | ----- | ----- |
-| [[Fire]] | ==200== | ==+25%== |
+| [[Fire]] | ==200== ⬆️ | ==+25%== ⬆️ |
 | [[Wind]] | 5 | - |
 | [[Nature]] | 5 | - |
 | [[Electric]] | 5 | - |
-| [[Dark]] | ==300== | ==+25%== |
-| [[Blood]] | ==5== | - |
+| [[Dark]] | ==300== ⬆️ | ==+25%== ⬆️ |
+| [[Blood]] | ==5== ⬆️ | - |
 
 ## Starting [[Skills]]
 | Skill | Value | Learn Rate |

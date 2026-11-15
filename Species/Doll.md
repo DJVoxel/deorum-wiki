@@ -21,7 +21,7 @@
 | [[Nature]] | 5 | - |
 | [[Earth]] | 5 | - |
 | [[Electric]] | 5 | - |
-| [[Summoning]] | ==10== | - |
+| [[Summoning]] | ==10==⬆️ | - |
 
 ## Abilities
 ### Strengths
