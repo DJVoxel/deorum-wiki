@@ -112,6 +112,8 @@ This category of magic usually has to be granted to you by a higher power
 - [[Time]]
 - [[Magic/Void|Void]]
 - [[Xadie]]
+## Modifiers
+- [[Peace]] - Often stronger or easier to use
 ## Universal Techniques
 These techniques are available to (almost) every type of magic, but manifest different depending on the type of magic.
 - Weapon Enhancement
