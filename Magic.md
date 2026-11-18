@@ -113,7 +113,7 @@ This category of magic usually has to be granted to you by a higher power
 - [[Magic/Void|Void]]
 - [[Xadie]]
 ## Modifiers
-These are versions of any magics that are pre-fixed with a modifier, providing modified benefits
+These are versions of any magics that are pre-fixed with a modifier, providing modified benefits. The max value of a modifier is the value you have in the base magic. (e.g. if you have Peace Nature, it can only go as high as your Nature stat)
 - [[Peace]] - Often stronger or easier to use outside of combat
 ## Universal Techniques
 These techniques are available to (almost) every type of magic, but manifest different depending on the type of magic.
