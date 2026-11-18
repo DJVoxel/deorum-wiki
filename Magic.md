@@ -108,12 +108,13 @@ This category of magic usually has to be granted to you by a higher power
 - [[Harmony]] - Magic Cores
 - Heaver Dimension
   - Divine Flame
-- [[Merchuka]] - From [[Azuma]]/[[Midi]]
+- [[Merchuka]] - From [[Azuma]]
 - [[Time]]
 - [[Magic/Void|Void]]
 - [[Xadie]]
 ## Modifiers
-- [[Peace]] - Often stronger or easier to use
+These are versions of any magics that are pre-fixed with a modifier, providing modified benefits
+- [[Peace]] - Often stronger or easier to use outside of combat
 ## Universal Techniques
 These techniques are available to (almost) every type of magic, but manifest different depending on the type of magic.
 - Weapon Enhancement
