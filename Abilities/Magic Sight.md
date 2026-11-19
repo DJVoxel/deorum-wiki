@@ -1,0 +1,1 @@
+The ability to see the presence of [[Magic]]
