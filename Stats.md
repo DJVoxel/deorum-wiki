@@ -1,4 +1,4 @@
-Stats represent the growth of your character's body and can be increased with use without any particular formalized training. Each stat is represented with a single number.
+Stats represent the growth of your character's body and can be increased with use without any particular formalized training. Your character actually has higher attributes than your stats show, but your stats show you how much of that can be utilized safely. Going beyond what your stats show is a rare event known as a [[Limit Break]]. Each stat is represented with a single number.
 
 Some stats are Hidden because they start at 0 and will not appear on your character sheet until trained.
 ## Physcial Stats

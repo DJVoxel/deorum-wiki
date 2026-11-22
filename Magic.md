@@ -71,6 +71,7 @@ Advanced Magic has some sort of prerequisite to acquire, usually involving a hig
 - [[Poison]]
 - [[Polymorph]]
 - [[Possession]]
+- [[Potential]] - After reaching 3000 or higher total magic, sacrifice 100
 - [[Pressure]]
 - [[Radiance]]
 - [[Rage]]
