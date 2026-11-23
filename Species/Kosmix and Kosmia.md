@@ -1,3 +1,8 @@
+```
+aliases:
+    - Kosmix
+    - Kosmia
+```
 ## Appearance
 
 ## Personality

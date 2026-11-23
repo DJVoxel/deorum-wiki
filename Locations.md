@@ -1,4 +1,4 @@
-## Continents
+## The Overworld
 - [[Northern Continent]]
 - [[Central Continent]]
 - [[Western Continent]]
@@ -11,4 +11,6 @@
 - [[Southern Unknown Continent]]
 
 ## Worlds
+- [[Hell]]
+- [[Heaven]]
 - [[The Underworld]]

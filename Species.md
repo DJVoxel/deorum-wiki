@@ -1,5 +1,6 @@
-Deorum is host to an expansive quantity of humanoid species that each have their own benefits and downsides. While the original goal was 100 different species, the cureent count far surpasses that number.
-## Active Species
+## Humanoids
+Deorum is host to an expansive quantity of humanoid species that each have their own benefits and downsides. All playable species are humanoids, and most (but not all) humanoids are playable.
+### Active Species
 - [[Abyssion]]
 - [[Anglion]]
   - [[Blood Anglion]]
@@ -81,9 +82,10 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 - [[Quez]]
 - [[Raksha]]
 - [[Revcubus]]
+- [[Rezra]]
+- [[Rimoto]]
 - [[Risu]]
 - [[Ritula]]
-- [[Rimoto]]
 - [[Sairena]]
 - [[Scorpian]]
 - [[Shadez]]
@@ -109,8 +111,8 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 - [[Void]]
 - [[Vulca]]
 - [[Wanderer]]
-- [[Witchan]]
 - [[Windrus]]
+- [[Witchan]]
 - [[Xyl]]
 - [[Yadron]]
 - [[Yexel]]
@@ -119,7 +121,7 @@ Deorum is host to an expansive quantity of humanoid species that each have their
 - [[Zoneling]]
 - [[Zythena]]
 
-## Extinct Species
+### Extinct Species
 The Gods were not kind to these ones
 - [[Chilliarch]]
 - [[Cleyran]]
@@ -131,17 +133,25 @@ The Gods were not kind to these ones
 - [[Glutena]]
 - [[Haze]]
 - [[Hyperloid]]
+- [[Invertian]]
 - [[Kinzo]]
 - [[Krie]]
 - [[Meteorix]]
 - [[Mist]]
 - [[Monoloid]]
 - [[Mortifero]]
-- [[Rezra]]
 - [[Shardax]]
 - [[Skelly]]
 - [[Valk]]
 - [[Vertian]]
-- [[Invertian]]
 - [[Vocaloid]]
 - [[Zumi]]
+
+### Trivia
+- While the original goal was to have 100 different humanoid species, the current count far surpasses that number if you include all of the extinct species that were once on Deorum over the years.
+
+## Demonoids
+The residents of [[Hell]], Demonoids have up to three traits that mimic the strengths and weaknesses the Humanoid Species.
+
+## Angeloids
+The residents of [[Heaven]]
