@@ -5,10 +5,10 @@
 ## Starting [[Stats]]
 | Physical Stat | Value | Learn Rate |
 | ----- | ----- | ----- |
-| Strength | 75 | +10% |
-| Agility | 50 | +10% |
-| Reflexes | 100 | +10% |
-| Choice of Strength, Agility or Reflexes | - | +40% additional |
+| Strength | ==75==⬆️ | ==+10%==⬆️ |
+| Agility | ==50==⬆️ | ==+10%==⬆️ |
+| Reflexes | ==100==⬆️ | ==+10%==⬆️ |
+| Choice of Strength, Agility or Reflexes | - | ==+40% additional==⬆️ |
 | Sight | 20 | - |
 | Hearing | 20 | - |
 | Smell | 20 | - |
@@ -22,13 +22,13 @@
 | [[Nature]] | 5 | - |
 | [[Earth]] | 5 | - |
 | [[Electric]] | 5 | - |
-| [[Charm]] | - | Can't learn |
-| [[Blood]] | - | Can't learn |
+| [[Charm]] | - | ==Can't learn==⬇️ |
+| [[Blood]] | - | ==Can't learn==⬇️ |
 
 ## Starting [[Skills]]
 | Skill | Value | Learn Rate |
 | ----- | ----- | ----- |
-| Ranged Weapons | - | Can't use |
+| Ranged Weapons | - | ==Can't use==⬇️ |
 
 ## Abilities
 ### Strengths
