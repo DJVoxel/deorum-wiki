@@ -32,7 +32,7 @@
 
 ## Abilities
 ### Strengths
-- Can hold items inside their Self Void and make those items appear at any time
+- Can turn items into Self Voids, allowing them to be stored within their body and then withdraw those items at any time.
 - Can heal with [[Dark]] and [[Electric]] magic
 - When near death, all physical stats are tripled and all magic stats are halved
 
